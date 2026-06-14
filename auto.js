@@ -1,5 +1,5 @@
 const fs = require("fs");
-const login = require('ws3-fca');
+const login = require('stfca');
 const moment = require('moment-timezone');
 const express = require("express");
 const axios = require('axios');
